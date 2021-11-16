@@ -1,5 +1,5 @@
-token          = "xxx-xxx--BJz7gKLXFVhEJU3vHUU6DkzKT3eto0Q77gc2"
-subnetid       = "subnet-0f8ff994c9c2372af"
-security_group = "sg-07f5fe497f076667f"
+token          = "xxx-xxx--BJz7gKLXFVhEJU3vHUU6DkzKT3etxxxxxxxx"
+subnetid       = "subnet-0f8ff994c9cxxxxxx"
+security_group = "sg-07f5fe497f0xxxxxx"
 region         = "us-east-2"
 account        = "account-xxxxxxxxxx"
