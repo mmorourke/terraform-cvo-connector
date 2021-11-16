@@ -6,7 +6,7 @@ resource "netapp-cloudmanager_connector_aws" "cl-occm-aws" {
   provider                    = netapp-cloudmanager
   name                        = "orourke-conn-aws-terraform"
   region                      = var.region
-  key_name                    = "orourke-keypair-oh-01"
+  key_name                    = "orourke-keypair-xxx-xxx"
   company                     = "NetApp"
   instance_type               = "t3.xlarge"
   subnet_id                   = var.subnetid
